@@ -25,8 +25,8 @@ h6 {
 }
 
 h1 {
-  font-size: 3.0rem;
-  line-height: 2.5rem;
+  font-size: calc(7vw + 4vh + 2vmax);
+  line-height: calc(7vw + 4vh + 2vmax - 0.5rem);
 }
 
 h2 {
@@ -77,8 +77,4 @@ p.lead {
       color: $primary;
     }
   }
-}
-
-.surname {
-  font-size: 70%;
 }
