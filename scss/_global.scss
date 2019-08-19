@@ -25,12 +25,12 @@ h6 {
 }
 
 h1 {
-  font-size: 6rem;
-  line-height: 5.5rem;
+  font-size: 3.0rem;
+  line-height: 2.5rem;
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
 }
 
 h3 {
@@ -77,4 +77,8 @@ p.lead {
       color: $primary;
     }
   }
+}
+
+.surname {
+  font-size: 70%;
 }
